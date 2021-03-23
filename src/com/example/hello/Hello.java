@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class Hello {
     public static void main(String[] args) {
 
-
+        //Las lineas en blanco mas de una se ve raro. Deja una sola si quieres dividir algo.
         Scanner scanner = new Scanner(System.in);
+        //Las variables siempre ponle un valor inicial. String name = "". int age = 0 ....
         String name;
         int age;
         String city;
@@ -23,6 +24,6 @@ public class Hello {
 
 
 
-
+        //Las lineas en blanco mas de una se ve raro. Deja una sola si quieres dividir algo.
     }
 }
